@@ -1,0 +1,11 @@
+<mj-raw>
+  <!-- 3 line divider -->
+</mj-raw>
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-image
+      padding="0"
+      src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/1db98b46-1fcd-eaf2-7a4e-8d7f4cf0e150.png"
+    />
+  </mj-column>
+</mj-section>

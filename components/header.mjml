@@ -1,0 +1,12 @@
+<mj-raw>
+  <!-- header  -->
+</mj-raw>
+<mj-section css-class="header section-padding">
+  <mj-column>
+    <mj-image
+      width="121px"
+      align="left"
+      src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/46e47796-f454-99d2-cfa7-3e6ee6018ed7.png"
+    />
+  </mj-column>
+</mj-section>

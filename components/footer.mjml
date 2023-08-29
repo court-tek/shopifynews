@@ -1,0 +1,48 @@
+<mj-raw>
+  <!-- footer  -->
+</mj-raw>
+<mj-wrapper css-class="footer" padding="0 0 0">
+      <mj-section padding="0 40px 0 40px">
+        <mj-group css-class="icon-size">
+          <mj-column padding="0">
+            <mj-image padding="0 5px" src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/dd73e86b-37f4-bb6e-bca8-6a1ea65240f2.png" width="27px" height="27px" alt="facebook" />
+          </mj-column>
+          <mj-column>
+            <mj-image padding="0 5px" src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/71f6ef18-72e0-8c17-5945-27dc151dc36e.png" width="27px" height="27px" alt="twitter" />
+          </mj-column>
+          <mj-column>
+            <mj-image padding="0 5px" src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/58f85f31-4a31-7ae3-c834-eb7f5af18eeb.png" width="27px" height="27px " alt="instagram" />
+          </mj-column>
+          <mj-column>
+            <mj-image padding="0 5px" src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/460e3fb8-d5cd-db6c-df6f-9a0a200f9b61.png" width="27px" height="27px " alt="snapchat" />
+          </mj-column>
+          <mj-column>
+            <mj-image padding="0 5px" src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/b58c0700-98b6-6681-078a-2e02b55105cb.png" width="27px" height="27px " alt="linkedin" />
+          </mj-column>
+          <mj-column>
+            <mj-image padding="0 5px" src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/3a4f2d6e-9f87-44b2-1264-f97770d511b5.png" width="27px" height="27px " alt="pinterest" />
+          </mj-column>
+          <mj-column>
+            <mj-image padding="0 5px" src="https://mcusercontent.com/df74b0b7e3d95bf7da794c1aa/images/de609484-5e02-2eda-9fe8-b27ff8df0745.png" width="27px" height="27px " alt="youtube" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="20px 0 0">
+        <mj-column padding="0">
+          <mj-text font-size="10px" align="center">
+            &copy; Shopify, 151 O' Connor Street, Ground Floor, Ottawa ON, K2P 2L8
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 60px">
+        <mj-column padding="0">
+          <mj-text font-size="10px" align="center">
+            <a href="#" class="footer-links">Unsubscribe</a> |
+            <a href="#" class="footer-links">Manage your email preferences</a> |
+            <a href="#" class="footer-links">Privact policy</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    
